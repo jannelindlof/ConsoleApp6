@@ -118,7 +118,7 @@ namespace projektuppgit2ver2
                 }
 
                 // Tom rad innan nästa körning
-                Console.WriteLine();
+                Console.WriteLine("\n");
             }
         }
     }
